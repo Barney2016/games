@@ -1,0 +1,59 @@
+body{
+  width: 90%;
+  min-height: 700px;
+  border:solid;
+  border-color: darkblue;
+  border-width: 10px;
+  background-color: lightgray;
+}
+#remote{
+  height:80px;
+  width:200px;
+  border:solid;
+  border-color: darkgray;
+  background: lightgray;
+  align-items: center;
+}
+#bluemoon{
+  position:fixed;
+  left:650px;
+  top:150px;
+  border-radius: 20%;
+}
+#moon{
+  position: absolute;
+  top:660px;
+  height:60px;
+  width:90%;
+  background-image: url("moon.jpg");
+}
+#space{
+  position:absolute;
+  background-image: url("space.jpg");
+  height:600px;
+  width:90%;
+}
+
+#up{
+
+  }
+
+#down{
+
+}
+
+#left{
+
+}
+
+#right{
+
+}
+
+#start{
+
+}
+
+#pause{
+
+}
